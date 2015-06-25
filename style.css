@@ -1,0 +1,36 @@
+.container {
+  height: 500px;
+  width: 500px;
+  background: grey;
+  position: absolute;
+}
+
+#one {
+  height: 100px;
+  width: 100px;
+  background: red;
+  float: left;
+}
+
+#two {
+  height: 100px;
+  width: 100px;
+  background: blue;
+  float: left;
+}
+
+#three {
+  height: 100px;
+  width: 100px;
+  background: green;
+  clear: left;
+}
+/*
+#four {
+  height: 100px;
+  width: 100px;
+  background: black;
+  position: absolute;
+  top: 400px;
+}
+*/
